@@ -1,7 +1,10 @@
 # Railway-Reservation-System
 EX NO:- 3 - Railway-Reservation-System
+
 Name - GANESH PRABHU J
+
 Reg No - 212223220023
+
 AIM
 To Develope the Railway Reservation System using Star UML tool.
 
@@ -15,22 +18,28 @@ HARDWARE REQUIREMENTS:
 512MB RAM2, PENTIUM III PROCESSOR.
 
 USE CASE DIAGRAM:
-image
+
+![WhatsApp Image 2024-11-14 at 13 23 15_18598a1f](https://github.com/user-attachments/assets/2ffeab14-5a9e-4aa6-a675-da321cacec95)
 
 CLASS DIAGRAM:
-image
+
+![WhatsApp Image 2024-11-14 at 13 23 24_09d0ed35](https://github.com/user-attachments/assets/728554db-7533-46ee-b235-ec0260805d10)
 
 SEQUENCE DIAGRAM:
-image
+
+![WhatsApp Image 2024-11-14 at 13 23 32_0a6d69f5](https://github.com/user-attachments/assets/4127216a-9eae-4d38-8540-1896d6dc28a6)
 
 ACTIVITY DIAGRAM:
-image
+
+![WhatsApp Image 2024-11-14 at 13 23 39_3d4a3074](https://github.com/user-attachments/assets/d9ac60f2-1a46-4458-b437-faa0b345c162)
 
 PACKAGE DIAGRAM:
-image
+
+![WhatsApp Image 2024-11-14 at 13 23 48_0e776eeb](https://github.com/user-attachments/assets/946e4f15-cfb7-495e-8d5d-a0ab8d33ac2c)
 
 COMMUNICATION DIAGRAM:
-image
+
+![WhatsApp Image 2024-11-14 at 13 23 55_dfe2a21f](https://github.com/user-attachments/assets/ee67086c-51cf-46e2-a810-8c6bb0f6db72)
 
 Result:
 Thus the project to develope E-Ticketing system was developed using Star UML software.
